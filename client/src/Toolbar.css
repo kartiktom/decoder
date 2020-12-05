@@ -1,0 +1,13 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-weight: 600;
+  }
+  
+  .sect1-item {
+    position: relative;
+    width: 50%;
+  }
+  .nav-item{
+      display:inline;
+  }
+  
