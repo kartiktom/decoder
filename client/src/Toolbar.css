@@ -1,0 +1,29 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-weight: 600;
+  }
+  
+  .sect1-item {
+    position: relative;
+    width: 50%;
+  }
+  .nav-item{
+      display:inline;
+  }
+
+  .formatDedicatedPost{
+    margin: auto;
+    width: 50%;
+  }
+
+  .dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+    margin-top: 0;
+}
+.dropdown-item
+{
+  clear: none;
+  font-weight: 500;
+}
